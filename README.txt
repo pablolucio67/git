@@ -1,0 +1,3 @@
+Inicializando
+t
+te
